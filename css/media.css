@@ -1,0 +1,80 @@
+@media only screen and (max-width: 479px)
+{
+    .list
+    {
+        font-size: 13px;
+    }
+    .list li
+    {
+        padding: 20px 35px 20px 0px;
+
+    }
+    .list li span
+    {
+        font-size: 15px;
+        margin-right: 70px;
+    }
+
+    .port
+    {
+        display: block;
+
+    }
+    
+    .about .about-content{
+        display: block;
+        margin: auto;
+        padding: 0px 15px;
+       }
+    .footer{
+        width: 93.6%;
+        display: block;
+       }
+    textarea
+    {
+        border-top: 0px;
+        border-left: 0px;
+        border-right: 0px;
+        width: 80% !important;
+        resize: none;
+
+    }
+    input
+    {
+    width: 350px;
+    height: 40px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    
+    }
+    .content
+    {
+   
+    font-size: 15px;
+    }
+    .content span
+    {
+        font-size: 14px;
+    }
+    .star
+    {
+        width: 30%;
+    }
+    .star img
+    {
+        width: 20px;
+        height: 20px;
+        margin: auto;
+    }
+     h1
+    {
+        font-size: x-large;
+
+    }
+    .two
+    {
+        margin-right: 290px;
+
+    }
+}
